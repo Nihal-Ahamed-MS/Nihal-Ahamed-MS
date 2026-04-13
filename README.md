@@ -49,5 +49,5 @@ Working on staying consistent across all three.
 
 ## 🤝 Connect  
 
-- LinkedIn  
-- Medium
+- [LinkedIn](https://www.linkedin.com/in/nihal-ahamed/)
+- [Medium](https://medium.com/@nihaljesiya)
