@@ -11,18 +11,15 @@ Developer | 🚀 Somehow keeping [apiwiz.io](https://github.com/apiwizlabs) aliv
 > Oh you know, just *casually* building "scalable" applications and herding developers at Apwiiz.
 > Part-time vibing on GitHub. Full-time pretending I know what I'm doing.
 
-## 🧾 Errands
+## Errands
 *Things I built instead of sleeping —*
 
 - 🛡️ [claude-guardian](https://github.com/Nihal-Ahamed-MS/claude-guardian) — A lightweight background daemon that intercepts Claude API calls to mask PII data. Privacy, but make it sneaky.
 - 🤖 [council](https://github.com/Nihal-Ahamed-MS/council) — A terminal-based chat app to query all your favourite LLMs at once. Because one AI wasn't confusing enough.
 - ♟️ [chess-llm](https://github.com/Nihal-Ahamed-MS/chess-ai) — A web platform to analyze and improve your chess skills using LLMs. Still loses to a 10-year-old.
-
-*Stuff I built, got bored of, and shipped anyway —*
-
 - 🔐 [hls-encryption](https://github.com/Nihal-Ahamed-MS/FFmpeg-HLS-Encryption) — A utility module to encrypt videos for DRM systems. It works. Allegedly.
 
-## 📬 Find me, if you must
+## Find me, if you must
 
 > Yes, I write blogs too. No, I don't know why. Read them anyway.
 
