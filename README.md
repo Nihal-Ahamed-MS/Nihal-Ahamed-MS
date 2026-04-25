@@ -19,8 +19,7 @@ Developer | 🚀 Somehow keeping [apiwiz.io](https://github.com/apiwizlabs) aliv
 - ♟️ [chess-llm](https://github.com/Nihal-Ahamed-MS/chess-ai) — A web platform to analyze and improve your chess skills using LLMs. Still loses to a 10-year-old.
 - 🔐 [hls-encryption](https://github.com/Nihal-Ahamed-MS/FFmpeg-HLS-Encryption) — A utility module to encrypt videos for DRM systems. It works. Allegedly.
 
-## Find me, if you must
-
+## Find me
 > Yes, I write blogs too. No, I don't know why. Read them anyway.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-ahamed/)
