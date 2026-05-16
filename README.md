@@ -21,5 +21,6 @@ Developer | 🚀 Somehow keeping [apiwiz.io](https://github.com/apiwizlabs) aliv
 ## Find me
 > Yes, I write blogs too. No, I don't know why. Read them anyway.
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a2e?style=flat-square&logo=google-chrome&logoColor=white)](https://www.justadev.in/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-ahamed/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@nihaljesiya)
