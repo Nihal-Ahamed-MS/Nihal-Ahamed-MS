@@ -14,7 +14,7 @@ By day, I build an API orchestration platform. A canvas where developers drag, d
 
 ## Proud Moments ![npm downloads](https://img.shields.io/npm/dw/@apiwiz/apiwiz-catalog-library?style=flat&label=npm%20downloads&color=red) [![npm downloads](https://img.shields.io/npm/dt/@apiwiz/apiwiz-catalog-library?style=flat&label=lifetime%20downloads&color=red)](https://www.npmjs.com/package/@apiwiz/apiwiz-catalog-library)
 
-Built a Swagger documentation renderer that makes API specs actually readable. It's built on top of a custom parser and bundled using Rollup, and it handles all types of circular dependencies and `$ref` resolution
+Built a Swagger documentation renderer that makes API specs actually readable. It's built on top of a custom swagger parser and bundled using Rollup, and it handles all types of circular dependencies and `$ref` resolution
 
 ## Side Quests
 - 📚[shepherd](https://github.com/Nihal-Ahamed-MS/shepherd) — A safe place to index the codebase and save tokens
