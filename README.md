@@ -12,7 +12,7 @@ Tech Lead | Developer | 🚀 Somehow keeping [apiwiz.io](https://github.com/apiw
 ## Building
 By day, I build an API orchestration platform. A canvas where developers drag, drop, and wire together complete backend workflows without writing boilerplate. Under the hood, a DAG engine handles node traversal and execution order.
 
-## Proud Moments ![npm downloads](https://img.shields.io/npm/dw/@apiwiz/apiwiz-catalog-library?style=flat&label=npm%20downloads&color=red) [![npm downloads](https://img.shields.io/npm/dt/@apiwiz/apiwiz-catalog-library?style=flat&label=lifetime%20downloads&color=red)](https://www.npmjs.com/package/@apiwiz/apiwiz-catalog-library)
+## Proud to earn ![npm downloads](https://img.shields.io/npm/dw/@apiwiz/apiwiz-catalog-library?style=flat&label=npm%20downloads&color=red) [![npm downloads](https://img.shields.io/npm/dt/@apiwiz/apiwiz-catalog-library?style=flat&label=lifetime%20downloads&color=red)](https://www.npmjs.com/package/@apiwiz/apiwiz-catalog-library)
 
 Built an NPM library for Swagger documentation that makes API specs actually readable. It's built on top of a custom Swagger parser and bundled using Rollup, and it handles all types of circular dependencies and `$ref` resolution
 
