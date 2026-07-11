@@ -25,7 +25,7 @@ Built an NPM library for Swagger documentation that makes API specs actually rea
 - 🛡️ [claude-guardian](https://github.com/Nihal-Ahamed-MS/claude-guardian) — A lightweight background daemon that intercepts Claude API calls to mask PII data.
 - 🤖 [council](https://github.com/Nihal-Ahamed-MS/council) — A terminal-based chat app to query all your favourite LLMs at once.
 - 🔐 [hls-encryption](https://github.com/Nihal-Ahamed-MS/FFmpeg-HLS-Encryption) — A utility module to encrypt videos for DRM systems.
-- ♘ [chess-llm](https://github.com/Nihal-Ahamed-MS/chess-ai) — A web platform to analyse and improve your chess skills using LLMs. Still loses to a 10-year-old.
+- 🎲 [chess-llm](https://github.com/Nihal-Ahamed-MS/chess-ai) — A web platform to analyse and improve your chess skills using LLMs. Still loses to a 10-year-old.
 
 ## Find me
 > Yes, I write blogs too. No, I don't know why. Read them anyway.
